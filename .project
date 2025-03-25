@@ -1,6 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <projectDescription>
+<<<<<<< HEAD
 	<name>Interface</name>
+=======
+	<name>Account</name>
+>>>>>>> 659df38809444a8a972985bbb48a5d5a6b016df6
 	<comment></comment>
 	<projects>
 	</projects>
